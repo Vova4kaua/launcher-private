@@ -11,8 +11,8 @@ export const window = {
 };
 
 export const api = {
-    ws: 'ws://127.0.0.1:1370/ws',
-    web: 'http://127.0.0.1:1370',
+    ws: 'ws://launcher.vova4kauav.pp.ua/ws',
+    web: 'https://launcher.vova4kauav.pp.ua/',
     // extraToken: token,
 };
 
